@@ -220,7 +220,6 @@ int main() {
 	auto duration = duration_cast<seconds>(stop - start);
 	cout << endl << "Completed in " << duration.count() << " Seconds" << endl;
 
-	
 	return 0;
 }
 
