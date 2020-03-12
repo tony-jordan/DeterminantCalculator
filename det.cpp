@@ -1,7 +1,5 @@
 // Team: rGames.co
-// Comments: Tony Jordan
-// Math: Tony Jordan
-// Threading: Tyler Spicer and Tony Jordan
+// Tony Jordan, Tyler Spicer & Kolby Hendrick
 
 // We tested some smaller matrices on https://matrix.reshish.com/determinant.php
 // and https://www.symbolab.com/solver/matrix-determinant-calculator to get
